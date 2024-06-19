@@ -1,0 +1,122 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/5hky8q5/Book1.png",
+      "review": "A timeless classic that vividly captures the Jazz Age and the American Dream.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "American Literature"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/DCcfF0X/Book2.png",
+      "review": "A poignant exploration of racial injustice and moral growth in the American South.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Social Issues"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/WnbkrYH/Book3.png",
+      "review": "A chilling dystopian novel that remains relevant in today's political landscape.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher ",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/C5nz211/Book4.png",
+      "review": "A compelling portrayal of teenage angst and rebellion in post-war America.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Coming of Age", "Psychological"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/fpP0VTf/Book5.png",
+      "review": "A timeless romance that satirizes societal norms and expectations.",
+      "totalPages": 432,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Romance", "Satire"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/NY3PDLR/Book6.png",
+      "review": "An enchanting tale of adventure and heroism in Middle-earth.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Middle-earth"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }, 
+    
+        {
+          "bookId": 7,
+          "bookName": "Hunger Games",
+          "author": "Suzanne Collins",
+          "image": "https://i.ibb.co/y01xxYf/Book7.png",
+          "review": "A gripping dystopian novel that explores themes of survival and rebellion.",
+          "totalPages": 374,
+          "rating": 4.7,
+          "category": "Young Adult",
+          "tags": ["Dystopian", "Adventure"],
+          "publisher": "Scholastic Press",
+          "yearOfPublishing": 2008
+        },
+        {
+          "bookId": 8,
+          "bookName": " Vinci Code",
+          "author": "Dan Brown",
+          "image": "https://i.ibb.co/NY3PDLR/Book6.png",
+          "review": "A fast-paced thriller that combines art, history, and mystery.",
+          "totalPages": 454,
+          "rating": 4.3,
+          "category": "Thriller",
+          "tags": ["Mystery", "Conspiracy"],
+          "publisher": "Doubleday",
+          "yearOfPublishing": 2003
+        },
+        {
+          "bookId": 9,
+          "bookName": "Harry Potter",
+          "author": "J.K. Rowling",
+          "image": "https://i.ibb.co/rHJqPjx/Book9.png",
+          "review": "A magical journey into a world of wizards and wonder.",
+          "totalPages": 309,
+          "rating": 4.8,
+          "category": "Fantasy",
+          "tags": ["Magic", "Adventure"],
+          "publisher": "Bloomsbury Publishing",
+          "yearOfPublishing": 1997
+        }
+       
+  ]
+  
